@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "codepass.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'codepass.app.jwtSecret'"
+  },
+  {
+    "name": "codepass.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'codepass.app.jwtExpirationMs'"
+  },
+  {
+    "name": "codepass.app.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'codepass.app.jwtCookieName'"
+  },
+  {
+    "name": "codepass.app.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'codepass.app.jwtCookieName'"
+  }
+]}
